@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Online library management system",
+    "image": "assets/images/projects/project1.png",
+    "links": {
+      "view": "https://drive.google.com/file/d/1I2eD3qAZRiet03zesV4VtEacrS5FHpfD/view"
+    }
+  },
+
+  {
+    "name": "School system database",
+    "image": "assets/images/projects/project2.png",
+    "links": {
+      "view": "https://drive.google.com/file/d/1UWt2YO5rGISYG-OqPwthNe3ReGqPEXDT/view"
+    }
+  },
+
+  {
+    "name": "Text Search Engine",
+    "image": "assets/images/projects/project3.png",
+    "links": {
+      "view": "https://drive.google.com/file/d/1GUulZHBgB4jLU_9sNRwsLTHlFmsGqSwt/view"
+    }
+  },
+
+  {
+    "name": "Library Management System",
+    "image": "assets/images/projects/project4.png",
+    "links": {
+      "view": "https://drive.google.com/file/d/1nABDThlCYwmWlV480TDQYhQK_peIxBJs/view"
+    }
+  }
+]
